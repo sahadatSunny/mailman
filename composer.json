@@ -1,0 +1,19 @@
+{
+    "name": "sahadat/mailman",
+    "description": "mailMan makes thing easier when one needs to send mail from various application.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sahadat\\Mailman\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sahadat",
+            "email": "sahadatsunny202146@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
